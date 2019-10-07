@@ -26,7 +26,10 @@
 <br>
 
 ### Biggest Challenges
-#### One of my biggest challenges during the creation of this app was setting up PostgreSQL and installing psycopg2 in the terminal. A lot of my obstacles also came from learning the difference between different versions of Python and Django and making sure that the version I am currently have installed is the one I am writing into my code. Heroku was definitely one of my biggest challenges and took up a couple of days to deploy and to get the server on Heroku working with the app. 
+#### 1. Setting up PostgreSQL and installing psycopg2 in the terminal
+#### 2. Learning the difference between different versions of Python and Django and making sure that the version I am currently have installed is the one I am writing into my code
+#### 3. Heroku was definitely one of my biggest challenges and took up a couple of days to deploy and to get the server on Heroku working with the app
+#### 4. Having to restart my repository a couple of times in the beginning stages because of installing things for different versions of Python and Django
 
 
 
