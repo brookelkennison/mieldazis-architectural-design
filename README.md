@@ -16,7 +16,7 @@
 <br>
 
 #### Motivation
-#####My inspiration for this app came from wanting to create something with simple styling and an app that focused more on functionality. I thought an app based around architectural design would allow me to incorporate innovative styling through photos. I really wanted to create a project using Python and Django because of the functionality it allows. I was impressed with how quickly I picked it up and how much I really enjoyed using it.
+##### My inspiration for this app came from wanting to create something with simple styling and an app that focused more on functionality. I thought an app based around architectural design would allow me to incorporate innovative styling through photos. I really wanted to create a project using Python and Django because of the functionality it allows. I was impressed with how quickly I picked it up and how much I really enjoyed using it.
 <br>
 
 #### Functionality
