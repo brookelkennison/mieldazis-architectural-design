@@ -1,1 +1,1 @@
-web: gunicorn mieldazis.wsgi
+web: gunicorn meildazis.wsgi
